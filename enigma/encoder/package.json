@@ -1,0 +1,12 @@
+{
+  "name": "enigma-encoder",
+  "version": "1.0.0",
+  "description": "Nazi machine used during WWII to crypt messages",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marco Cellini",
+  "license": "ISC"
+}
